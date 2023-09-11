@@ -1,0 +1,43 @@
+/*
+Theme Name: Rashid
+
+*/
+
+
+body{
+    overflow-x: hidden;
+}
+    @font-face {
+    font-family: 'Trajan Pro';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Trajan Pro Regular'), url('assets/fonts/TrajanPro-Regular.woff') format('woff');
+    }
+    
+
+    @font-face {
+    font-family: 'Trajan Pro Bold';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Trajan Pro Bold'), url('TrajanPro-Bold.woff') format('woff');
+    }
+/*body
+{
+text-align: left;
+}
+#ttr_sidebar
+{
+border-left: 1px solid black;
+}
+#ttr_footer
+{
+width: 100%;
+border-top: 1px #a2a2a2 solid;
+text-align: center;
+}
+.title
+{
+font-size: 11pt;
+font-family: verdana;
+font-weight: bold;
+}*/
